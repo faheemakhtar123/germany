@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+.flag1 {height: 400px;
+    width: 700px;
+}
+
+.a {height: 133px;
+    width: 700px;
+    background-color: #231F20;
+}
+.b {height: 133px;
+    width: 700px;
+    background-color: #ED1B24;
+}
+.c {
+    height: 133px;
+    width: 700px;
+    background-color: #FDCE62;
+}
+h1 {color: white;
+    float: right;
+
+}
